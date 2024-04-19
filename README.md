@@ -24,4 +24,4 @@ Scripts for deploying OpenVPN are included in the OpenVPN directory. These scrip
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/malewicz1337/vpn-server-configuration-scripts/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - [LICENSE](https://github.com/malewicz1337/vpn-server-configuration-scripts/blob/main/LICENSE).
